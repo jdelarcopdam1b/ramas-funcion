@@ -34,7 +34,8 @@ public class Empleado {
     }
 
     public void fichajeEntrada(){
-        //TODO
+        System.out.println("linea codigo 1");
+        System.out.println("linea codigo 2");
     }
 
     public void fichajeSalida(){
