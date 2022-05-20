@@ -38,6 +38,6 @@ public class Empleado {
     }
 
     public void fichajeSalida(){
-        //TODO
+        System.out.println("Codigo estable");
     }
 }
